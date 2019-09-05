@@ -1,0 +1,2 @@
+# compstats
+Computational Statistics Homework
